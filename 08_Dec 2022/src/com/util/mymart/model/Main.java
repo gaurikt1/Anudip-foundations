@@ -1,14 +1,16 @@
-package com.mymartmodel;
+package com.util.mymart.model;
 
-import com.mymart.View.ProductView;
 
-public class Main {
+	import com.mymart.View.ProductView;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		ProductView productview=new ProductView();
-		productview.addproduct();
-		productview.displayAllProducts();
+	public class Main {
+
+		public static void main(String[] args) {
+			// TODO Auto-generated method stub
+			ProductView productview=new ProductView();
+			productview.addproduct();
+			productview.displayAllProducts();
+		}
+
 	}
-
-}
+	
