@@ -1,4 +1,4 @@
-package com.mymart.main;
+package com.mymartmodel;
 
 import com.mymart.View.ProductView;
 
