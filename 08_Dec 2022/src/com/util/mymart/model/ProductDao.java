@@ -1,8 +1,8 @@
-package com.mymart.Dao;
+package com.util.mymart.model;
 
 import java.util.LinkedList;
 
-import com.mymart.model.Product;
+
 
 public class ProductDao {
 	private static LinkedList<Product> list=new LinkedList<>();
